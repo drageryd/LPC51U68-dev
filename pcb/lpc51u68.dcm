@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP lpc51u68
+F https://www.nxp.com/docs/en/data-sheet/LPC51U68.pdf
+$ENDCMP
+#
+#End Doc Library

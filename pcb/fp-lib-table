@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LPC51U68-dev)(type KiCad)(uri /Users/ddrageryd/Documents/Personal/Kicad/LPC51U68-dev/footprints)(options "")(descr ""))
+)
